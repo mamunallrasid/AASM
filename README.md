@@ -1,5 +1,4 @@
 # AASM
-AASM Garden Wesbite  At Raiganj University Developed By Me
 AASM Garden Is A Botanical Garden in Our Raiganj University.
 Raiganj University Botanical Garden website has a User interface(UI) and an Admin panel Interface
 We can change various images and content of homepage of user interface from admin panel
